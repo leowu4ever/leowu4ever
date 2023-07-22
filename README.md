@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I like building stuff and sharing what I have learned.
+
 <!--
 **leowu4ever/leowu4ever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
